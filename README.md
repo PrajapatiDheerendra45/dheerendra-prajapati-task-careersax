@@ -4,7 +4,7 @@ This is a **User Management System** built with **React.js (Frontend)** and **Ex
 
 ## Features
 
-### Backend (Express.js + MySQL)
+### Backend (Express.js + MongoDB)
 - **Authentication:** Login using email & password with JWT token generation and expiry.
 - **User Management:** Create, Login
 
@@ -28,7 +28,7 @@ git https://github.com/PrajapatiDheerendra45/dheerendra-prajapati-task-careersax
 
 ---
 
-## Backend Setup (Express + MySQL)
+## Backend Setup (Express + MOngoDB)
 
 ### 1. Install Dependencies
 ```sh
