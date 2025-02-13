@@ -46,8 +46,8 @@ JWT_SECRET=yourjwtsecret
 
 ### 4. Start the Backend Server
 ```sh
-node server.js  # OR use nodemon for auto-restart
-nodemon 
+ nodemon   #  use nodemon for auto-restart
+node server.js #OR
 ```
 
 Backend will run on `http://localhost:5000`
@@ -90,7 +90,7 @@ nodemon
 or
 node server.js
 ```
-Frontend will run on `http://localhost:3000`
+Frontend will run on `http://localhost:5000`
 
 ---
 
