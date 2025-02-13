@@ -90,7 +90,7 @@ nodemon
 or
 node server.js
 ```
-Frontend will run on `http://localhost:5000`
+Backend will run on `http://localhost:5000`
 
 ---
 
